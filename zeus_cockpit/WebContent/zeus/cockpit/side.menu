@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Define",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Ideas",
+                "link" : "../ideas/index.html"
+            },
+            {
+                "name" : "Solutions",
+                "link" : "../solutions/index.html"
+            },
+            {
+                "name" : "Projects",
+                "link" : "../projects/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Develop",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Issues",
+                "link" : "../issues/index.html"
+            },
+            {
+                "name" : "Sources",
+                "link" : "../sources/index.html"
+            },
+            {
+                "name" : "Code",
+                "link" : "../code/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Discover",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Databases",
+                "link" : "../databases/index.html"
+            },
+            {
+                "name" : "Storages",
+                "link" : "../storages/index.html"
+            },
+            {
+                "name" : "Endpoints",
+                "link" : "../endpoints/index.html"
+            },
+            {
+                "name" : "Web",
+                "link" : "../web/index.html"
+            },
+            {
+                "name" : "Wiki",
+                "link" : "../wiki/index.html"
+            },
+            {
+                "name" : "Jobs",
+                "link" : "../jobs/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Operate",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Users",
+                "link" : "../users/index.html"
+            },
+            {
+                "name" : "Roles",
+                "link" : "../roles/index.html"
+            },
+            {
+                "name" : "Templates",
+                "link" : "../templates/index.html"
+            },
+            {
+                "name" : "Landscapes",
+                "link" : "../landscapes/index.html"
+            },
+            {
+                "name" : "Terminals",
+                "link" : "../terminals/index.html"
+            },
+            {
+                "name" : "Transports",
+                "link" : "../transports/index.html"
+            },
+            {
+                "name" : "Marketplace",
+                "link" : "../marketplace/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Monitor",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Metrics",
+                "link" : "../metrics/index.html"
+            },
+            {
+                "name" : "Quota",
+                "link" : "../quota/index.html"
+            },
+            {
+                "name" : "Application Logs",
+                "link" : "../app_logs/index.html"
+            },
+            {
+                "name" : "Access Logs",
+                "link" : "../access_logs/index.html"
+            },
+            {
+                "name" : "Audit Logs",
+                "link" : "../audit_logs/index.html"
+            },
+            {
+                "name" : "Access Logs",
+                "link" : "../access_logs/index.html"
+            }
+        ]
+    }
+]
