@@ -22,16 +22,16 @@
         "link": "",
         "subMenu": [
             {
+                "name" : "Code",
+                "link" : "../code/index.html"
+            },
+            {
                 "name" : "Issues",
                 "link" : "../issues/index.html"
             },
             {
                 "name" : "Sources",
                 "link" : "../sources/index.html"
-            },
-            {
-                "name" : "Code",
-                "link" : "../code/index.html"
             }
         ]
     },
