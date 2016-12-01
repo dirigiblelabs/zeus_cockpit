@@ -52,16 +52,17 @@
                 "link" : "../endpoints/index.html"
             },
             {
-                "name" : "Web",
-                "link" : "../web/index.html"
+                "name" : "Documents",
+                "link" : "../docs/index.html"
+            },
+            
+            {
+                "name" : "Sites",
+                "link" : "../sites/index.html"
             },
             {
                 "name" : "Wiki",
                 "link" : "../wiki/index.html"
-            },
-            {
-                "name" : "Jobs",
-                "link" : "../jobs/index.html"
             }
         ]
     },
