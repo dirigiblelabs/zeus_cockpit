@@ -14,6 +14,14 @@
             {
                 "name" : "Projects",
                 "link" : "../projects/index.html"
+            },
+            {
+                "name" : "Discussions",
+                "link" : "../discussions/index.html"
+            },
+            {
+                "name" : "Chat",
+                "link" : "../chat/index.html"
             }
         ]
     },
@@ -26,12 +34,20 @@
                 "link" : "../code/index.html"
             },
             {
+                "name" : "Sources",
+                "link" : "../sources/index.html"
+            },
+            {
                 "name" : "Issues",
                 "link" : "../issues/index.html"
             },
             {
-                "name" : "Sources",
-                "link" : "../sources/index.html"
+                "name" : "Tasks",
+                "link" : "../tasks/index.html"
+            },
+            {
+                "name" : "Bugs",
+                "link" : "../bugs/index.html"
             }
         ]
     },
@@ -83,20 +99,16 @@
                 "link" : "../templates/index.html"
             },
             {
-                "name" : "Landscapes",
-                "link" : "../landscapes/index.html"
-            },
-            {
-                "name" : "Terminals",
-                "link" : "../terminals/index.html"
+                "name" : "Deployments",
+                "link" : "../deployments/index.html"
             },
             {
                 "name" : "Transports",
                 "link" : "../transports/index.html"
             },
             {
-                "name" : "Marketplace",
-                "link" : "../marketplace/index.html"
+                "name" : "Infrastructure",
+                "link" : "../operate_infrastructure/index.html"
             }
         ]
     },
@@ -125,8 +137,44 @@
                 "link" : "../audit_logs/index.html"
             },
             {
-                "name" : "Access Logs",
-                "link" : "../access_logs/index.html"
+                "name" : "Infrastructure",
+                "link" : "../monitor_infrastructure/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Marketplace",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Catalog",
+                "link" : "../marketplace/index.html"
+            },
+            {
+                "name" : "Assets",
+                "link" : "../assets/index.html"
+            },
+            {
+                "name" : "Buyers",
+                "link" : "../buyers/index.html"
+            },
+            {
+                "name" : "Suppliers",
+                "link" : "../suppliers/index.html"
+            }
+        ]
+    },
+    {
+        "name": "Configurations",
+        "link": "",
+        "subMenu": [
+            {
+                "name" : "Plugins",
+                "link" : "../plugins/index.html"
+            },
+            {
+                "name" : "Settings",
+                "link" : "../settings/index.html"
             }
         ]
     }

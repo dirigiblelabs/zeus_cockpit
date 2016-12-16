@@ -23,5 +23,15 @@
         "name": "Monitor",
         "link": "monitor.html",
         "subMenu": []
+    },
+    {
+        "name": "Marketplace",
+        "link": "marketplace.html",
+        "subMenu": []
+    },
+    {
+        "name": "Configuration",
+        "link": "configuration.html",
+        "subMenu": []
     }
 ]
