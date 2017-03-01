@@ -31,7 +31,7 @@
 </head>
 <body ng-controller="CockpitCtrl">
 	<div id="wrap">
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
@@ -57,7 +57,7 @@
 				<ul class="nav navbar-nav navbar-right">
 				  <li class="dropdown" ng-include="'/services/web/resources/themes/themes.html'"></li>
 		          <li class="hidden-xs">
-		            <a href=""><span class="fa fa-user"></span> <span ng-include="'/services/js/user/name.js'"></span>&nbsp;</a>
+		            <a href=""><span class="fa fa-user"></span> <span ng-include="'/services/js/user/name.js'"></span>&nbsp;&nbsp;</a>
 		          </li>
 		        </ul>
 			</div>
@@ -65,7 +65,7 @@
 			
 			<!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul id="side-menu" class="nav navbar-nav side-nav navbar-default">
+                <ul id="side-menu" class="nav navbar-nav side-nav navbar-inverse">
 					<li ng-repeat="sidebarItem in sidebar">
 						<a href="#{{sidebarItem.path}}" ng-click="setView(sidebarItem.link)" target="{{sidebarItem.newTab ? '_blank' : '_self'}}">{{ sidebarItem.name }}</a>
 					</li>
